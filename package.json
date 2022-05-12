@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "@openzeppelin/contracts": "^4.3.1",
-    "@openzeppelin/contracts-upgradeable": "^4.3.1"
+    "@openzeppelin/contracts-upgradeable": "^4.5.2"
   },
   "scripts": {
     "uml": "npx sol2uml ./flats",
